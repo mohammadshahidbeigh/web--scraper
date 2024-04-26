@@ -30,6 +30,18 @@ The tool reads the content of an input text file, applies formatting rules, and 
 
 You can customize the formatting rules by modifying the `format_text` function in the `format_text.py` file. Adjust the regular expressions and formatting logic to achieve the desired formatting for your text files.
 
+## Customization
+Contributions are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+
+## License
+This project is licensed under the MIT License.
+
+
+
+You can copy and paste this code into a file named `README.md` in the root directory of your GitHub repository. This `README.md` file provides instructions for using the LangChain Text File Formatter tool, along with information about customization, example usage, contributing, and licensing.
+
+
 ## Example
 
 Here's an example of how you can use the tool to format a text file:
@@ -38,17 +50,7 @@ Here's an example of how you can use the tool to format a text file:
 # Example usage:
 input_file = "input.txt"
 output_file = "formatted_output.txt"
-format_text(input_file, output_file)
+format_text(input_file, output_file) 
 
 
 
-Contributing
-Contributions are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-
-License
-This project is licensed under the MIT License.
-
-
-
-You can copy and paste this code into a file named `README.md` in the root directory of your GitHub repository. This `README.md` file provides instructions for using the LangChain Text File Formatter tool, along with information about customization, example usage, contributing, and licensing.
