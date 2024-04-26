@@ -4,7 +4,7 @@
 
 This repository contains a Python script that demonstrates how to perform web scraping using LangChain tools. Web scraping is the process of extracting data from websites, and it can be useful for various purposes such as data analysis, content aggregation, and research.
 
-In this example, we'll be scraping a college website ([MIET Jammu](https://www.mietjmu.in/)) to extract information such as page titles, URLs, and content.
+In this example, we'll be scraping my college website ([MIET Jammu](https://www.mietjmu.in/)) to extract information such as page titles, URLs, and content.
 
 ## Setup
 
