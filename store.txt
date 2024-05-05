@@ -9,7 +9,7 @@ A: MIET was established in the late 1990s.
 ### Academic Programs
 
 **Q: What types of engineering courses does MIET offer?**
-A: MIET offers Bachelor of Engineering (BE) courses in Civil Engineering, Computer Science & Engineering, Electronics and Communication Engineering, Electrical Engineering, and specialized programs in AI/ML and Cyber Security within the CSE department.
+A: MIET offers Bachelor of Engineering (BE) courses in Civil Engineering, Electronics and Communication Engineering, Electrical Engineering, and specialized programs in AI/ML and Cyber Security within the CSE department.
 
 **Q: What postgraduate courses are available at MIET?**
 A: Postgraduate courses at MIET include Master of Business Administration (MBA), Master of Computer Applications (MCA), and M.Tech in Computer Science.
@@ -1284,4 +1284,859 @@ A: The scholarship is awarded based on the following criteria:
 **A: Additional Learning Opportunities**
    - Students have access to Coursera, offering courses from global institutions to complement their curriculum.
    - Value-added programs and personality development sessions are regularly offered to enhance the soft skills and overall profile of the students.
+
+### MBA Faculty at MIET
+
+**Q: Who are some of the notable faculty members in the MBA program at MIET?**
+
+**A: Notable MBA Faculty Members**
+   - **Prof. Dr. Ashok Aima**: Chair Professor known for his expertise and leadership in management education.
+   - **Prof. BC Sharma**: A seasoned professor with a deep knowledge in business and management studies.
+   - **Prof. Sahil Sawhney**: Renowned for his contributions to business strategy and management practices.
+   - **Mr. Ajay Khajuria**: Brings real-world industry experience as a Professor-of-Practice.
+   - **Mr. Babar Afzal**: Another Professor-of-Practice known for his expertise in business innovation and strategy.
+   - **Dr. Ankita Nanda**: Heads the Department and is instrumental in curating a contemporary curriculum that meets industry standards.
+   - **Dr. Parul Sharma**: Associate Professor with a focus on modern business practices and research.
+   - **Dr. Ranju Katoch**, **Dr. Deeksha Singh**, **Dr. Navjeet Kaur**, **Dr. Amanpreet Kaur**, **Dr. Manik Arora**, and **Mr. Karan Khajuria**: Assistant Professors who bring specialized knowledge in various aspects of business administration, enhancing the learning experience with their diverse academic and professional backgrounds.
+
+**Q: What role do these faculty members play in the MBA program at MIET?**
+
+**A: Roles of MBA Faculty**
+   - These faculty members are involved in teaching core and elective courses, guiding capstone projects, conducting industry-relevant research, and facilitating internships and placements.
+   - They also conduct workshops, seminars, and development programs to ensure students are well-prepared for their professional careers.
+
+### NAAC Accreditation at MIET
+
+**Q: What is NAAC and its purpose?**
+
+**A: About NAAC**
+   - NAAC, the National Assessment and Accreditation Council, is an autonomous body established by the University Grants Commission (UGC) of India in 1994.
+   - It aims to assess and accredit institutions of higher education in India, ensuring quality assurance and improvement in higher education institutions across the country.
+
+**Q: What are the benefits of NAAC accreditation?**
+
+**A: Benefits of NAAC Accreditation**
+   - NAAC accreditation helps institutions recognize their strengths, weaknesses, opportunities, and threats through a systematic evaluation.
+   - It aids in the strategic allocation of resources and planning, enhances the institution’s public image, and provides a clear direction and identity.
+   - The accreditation process encourages the adoption of innovative teaching and learning practices and increases the institution's accountability to stakeholders, including the government, donors, and society.
+
+**Q: How did MIET achieve its NAAC accreditation?**
+
+**A: MIET’s NAAC Accreditation**
+   - MIET was accredited by NAAC from 2017 to 2022 with an 'A' grade, making it the first technical institution in J&K to achieve this distinction.
+   - The NAAC peer team highlighted MIET’s green campus, active research and development initiatives, strong brand recognition, and a longstanding academic legacy as significant strengths.
+
+**Q: What does NAAC accreditation imply for MIET?**
+
+**A: Implications of NAAC Accreditation for MIET**
+   - The 'A' grade accreditation signifies that MIET meets high standards in terms of curriculum, faculty, infrastructural facilities, research, and stakeholder engagement.
+   - This accreditation enhances MIET’s appeal to prospective students and faculty by ensuring a quality educational experience and facilitates easier access to funding opportunities and partnerships.
+
+**Q: How does NAAC accreditation impact students and faculty at MIET?**
+
+**A: Impact on Students and Faculty**
+   - For students, NAAC accreditation assures quality education and greater recognition of their degrees in the job market and for higher education.
+   - Faculty members benefit through greater opportunities for research grants and collaborations with other accredited institutions, fostering an environment conducive to professional growth and innovation.
+
+**Q: What continuous improvements does NAAC accreditation encourage at MIET?**
+
+**A: Continuous Improvement**
+   - NAAC accreditation requires periodic review and renewal, which encourages MIET to continuously enhance its educational practices, infrastructure, and student services.
+   - This ongoing process ensures that MIET not only maintains but also elevates its standards in education, research, and community engagement over time.
+
+### ACM Chapter at MIET
+
+**Q: What is the ACM Student Chapter at MIET?**
+
+**A: About the ACM Student Chapter**
+   - The Association for Computing Machinery (ACM) Student Chapter at MIET was established in 2017, marking it as the first of its kind in the state of J&K.
+   - ACM Student Chapters provide a range of benefits including networking opportunities, mentoring, and access to the latest technologies in the computing field.
+
+**Q: What are the roles within the ACM Member Student Council at MIET?**
+
+**A: ACM Member Student Council Roles**
+   - The council includes several key positions: Chairperson, Vice-Chairperson, Treasurer, Secretary, Web Master, Membership Chairperson, and a Faculty Sponsor.
+   - These positions are held for a term of about one year, ensuring active participation and rotational leadership.
+
+**Q: What events does the ACM Chapter at MIET organize?**
+
+**A: Events and Activities**
+   - The chapter is known for organizing significant events such as the “Hour of Code,” which is part of a global movement reaching tens of millions of students in 180+ countries.
+   - A notable event was the ACM Distinguished Lecture by Dr. Gargi Banerjee Dasgupta, who spoke on "Cognitive Computing," discussing artificial intelligence, machine learning, natural language processing, and sentiment analysis.
+
+**Q: What impact does the ACM Chapter have on students at MIET?**
+
+**A: Impact on Students**
+   - Participation in the ACM Chapter enhances students' learning experiences by exposing them to advanced computing technologies and professional expertise.
+   - It provides a platform for students to engage in practical, real-world computing applications, significantly enriching their educational and professional prospects.
+
+**Q: How does the ACM Chapter contribute to the broader computing community?**
+
+**A: Contribution to the Computing Community**
+   - The ACM Chapter at MIET contributes to the broader community by hosting lectures and workshops that are open to both students and faculty, fostering a deeper understanding of emerging technologies.
+   - These activities encourage collaboration and innovation within the computing field, aligning with global trends and advancements.
+
+**Q: Why should students consider joining the ACM Chapter at MIET?**
+
+**A: Reasons to Join**
+   - Joining the ACM Chapter provides students with opportunities to learn directly from leaders in the computing field, participate in hands-on projects, and enhance their problem-solving and technical skills.
+   - Membership also includes access to ACM’s vast resources, including digital libraries, conferences, and publications, which are invaluable for academic and professional development.
+
+### Governing Body of Model Institute of Engineering and Technology (MIET)
+
+**Q: Who are the members of the Governing Body at MIET?**
+
+**A: Overview of Members**
+   - **Dr. Renu Gupta**: Chairperson of Model Institute of Education and Research. Former Principal at MIER College of Education. National level trainer for women's empowerment and Director of the Centre for Women Studies. NAAC assessor.
+   - **Prof. Ashok Aima**: Vice Chancellor of the Central University of Jammu. Expert in economics and human resource management.
+   - **Mr. Kuldeep Khoda**: Former Director General of J&K Police and Chief Vigilance Commissioner of J&K State. Recipient of several prestigious awards for his service.
+   - **Mrs. Ruchika Gupta**: Joint Director of MIER Group of Institutions. Expert in infrastructure management and Incoming Chairperson of FICCI FLO JK&L Chapter.
+   - **Prof. Adit Gupta**: Director of MIER and Principal of MIER College of Education. Recipient of Australia’s ‘Endeavour Executive Award’.
+   - **Prof. Ankur Gupta**: Director at MIET. Holds patents and has significant research publications. Former Technical Team Lead at Hewlett-Packard.
+   - **Prof. Sahil Sawhney**: General Manager Strategic Initiatives at MIET. Expert in Strategic Management, Operational Excellence, and Entrepreneurship.
+   - **Prof. G.S. Sambyal**: Former Head of Computer Science and Registrar at University of Jammu. Specialist in High Energy Physics.
+   - **Dr. Deepak Garg**: Vice Chancellor at SR University and a distinguished professor in School of Computer Science and AI. Former roles include Dean at Bennett University and Director at NVIDIA-BU Research Center on AI.
+
+**Q: What roles do these members play at MIET?**
+
+**A: Roles and Contributions**
+   - Each member brings a unique set of skills and experiences, contributing to policy planning, administration, training, research, and teaching at MIET.
+   - They guide strategic initiatives, academic programs, research activities, and accreditation processes, ensuring the institution's growth and adherence to quality standards.
+
+**Q: How does the experience of these members benefit MIET?**
+
+**A: Impact of Their Experience**
+   - The diverse backgrounds of the governing body members ensure robust leadership and governance at MIET.
+   - Their experiences enhance the institute’s connections with industry and academia, leading to better opportunities for students and faculty.
+   - Their leadership fosters a culture of innovation, academic excellence, and community engagement at the institute.
+
+### AICTE Approvals for Model Institute of Engineering and Technology (MIET)
+
+**Q: What is the significance of AICTE approval for MIET?**
+
+**A: Importance of AICTE Approval**
+   - AICTE (All India Council for Technical Education) approval is crucial for technical institutions in India as it signifies adherence to the minimum standards set for quality technical education.
+   - AICTE approval allows institutions to offer recognized degree programs, ensuring that the education provided is up to national standards.
+
+**Q: How consistently has MIET received AICTE approval?**
+
+**A: Consistency in Receiving AICTE Approval**
+   - MIET has consistently received Extension of Approval (EOA) from AICTE every year since 1999.
+   - This consistent approval underlines MIET’s commitment to maintaining the educational standards required by AICTE and providing high-quality technical education.
+
+**Q: How does AICTE approval impact students and faculty at MIET?**
+
+**A: Impact on Students and Faculty**
+   - For students, AICTE approval means that their degrees are recognized nationwide and valued by employers, which is crucial for career prospects.
+   - For faculty, AICTE approval can enhance the reputation of the programs they teach, facilitating academic collaborations and research opportunities.
+
+**Q: What does the annual EOA from AICTE entail for MIET?**
+
+**A: Annual EOA Implications**
+   - The annual EOA from AICTE ensures that MIET remains compliant with evolving educational standards and practices.
+   - It prompts regular updates to curriculum and infrastructure to meet AICTE standards, thereby improving the educational environment for students.
+
+### UiPath RPA Academy at MIET
+
+**Q: What is UiPath RPA Academy?**
+
+**A: Overview of UiPath RPA Academy**
+   - UiPath RPA Academy, established at MIET in collaboration with UiPath, USA, provides a structured training program on Robotic Process Automation (RPA).
+   - UiPath is a global leader in RPA solutions, known for its software platform that helps organizations automate business processes.
+
+**Q: What types of courses does the UiPath RPA Academy offer at MIET?**
+
+**A: Courses Offered at UiPath RPA Academy**
+   1. **Robotic Process Automation Awareness (2 hours)** - Introduces participants to the fundamentals of RPA, exploring its benefits and applications in business, along with strategies for successful implementation.
+   2. **Robotic Process Automation Design & Development v1.1 (50 hours)** - Provides comprehensive training from basic programming skills refreshment to professional-level RPA development using UiPath software. Includes 30 hours of theory, 20 hours of lab, and 10 hours of capstone projects.
+
+**Q: Who benefits from the UiPath RPA Academy at MIET?**
+
+**A: Beneficiaries of the Academy**
+   - Students and faculty members at MIET gain direct access to leading-edge RPA education, equipping them with skills highly sought after in industries driven by automation technologies.
+   - The academy enhances the employability of students by providing them with hands-on experience in deploying software robots using UiPath's platform.
+
+**Q: How does the collaboration with UiPath enhance MIET’s educational offerings?**
+
+**A: Impact of Collaboration with UiPath**
+   - The partnership with UiPath enables MIET to offer industry-relevant, high-quality automation training that aligns with global standards.
+   - The academy is equipped with free access to UiPath Studio Software (Academic Alliance version) and extensive educational materials, ensuring a rich learning experience for students.
+
+### B.Com (Hons.) Program at MIET
+
+**Q: What does the B.Com (Hons.) program at MIET offer?**
+
+**A: Overview of the B.Com (Hons.) Program**
+   - The Bachelor of Commerce (B.Com) program at MIET is designed to meet industry needs and prepare students for global business challenges.
+   - The program integrates core business knowledge with skill-based courses and electives that include law, public policy, and international affairs, aiming to produce versatile graduates.
+
+**Q: What are the key features of the B.Com (Hons.) curriculum at MIET?**
+
+**A: Key Features of the Curriculum**
+   1. **Core Courses:** Focus on business management, research, and interaction with industry personnel.
+   2. **Skill-Based Courses:** Emphasis on practical skills for managing day-to-day business issues.
+   3. **Ability Enhancement Courses:** Designed to develop analytical skills for business problem-solving.
+   4. **Elective Courses:** Offer flexibility to choose from a variety of subjects across different domains.
+
+**Q: What are the expected outcomes of the B.Com program at MIET?**
+
+**A: Program Outcomes**
+   - Graduates will possess essential managerial skills and be capable of analytical thinking necessary for effective decision-making in business environments.
+   - The program prepares students for diverse career paths in sectors such as banking, accountancy, and financial analysis, ensuring a high level of employability and career growth.
+
+**Q: What pedagogical methods are employed in the B.Com program at MIET?**
+
+**A: Pedagogical Approaches**
+   - The program uses innovative teaching methods such as case studies, group discussions, and simulation exercises.
+   - Emphasis is placed on experiential learning through webinars, industrial visits, guest lectures, and interactive sessions, all aimed at preparing students for real-world business challenges.
+
+### B.Com Faculty at MIET
+
+**Faculty Members**
+   - **Dr. Priyanka Sharma, Associate Professor**
+   - **Dr. Mamta Sharma, Assistant Professor**
+   - **Dr. Anzal Malik, Assistant Professor**
+   - **Dr. Vibhu Johar, Assistant Professor**
+   - **Mr. Dinesh Bargotra, Assistant Professor**
+   - **Mr. Koushik Dhar, Assistant Professor**
+   - **Ms. Mannat Puri, Assistant Professor**
+   - **Ms. Shallin Kaul, Assistant Professor**
+
+### IIT Bombay Super Resource Center at MIET
+
+**Q: What is the IIT Bombay Super Resource Center at MIET?**
+
+**A: Overview of the Super Resource Center**
+   - The Super Resource Center at MIET is affiliated with IIT Bombay and has been operational since 2015.
+   - It is part of the Spoken Tutorial project initiated by IIT Bombay under the Ministry of Human Resource Development (MHRD), Government of India.
+
+**Q: What are the objectives of the Super Resource Center at MIET?**
+
+**A: Objectives of the Center**
+   - The center aims to provide comprehensive training and certification in various open-source programming languages and tools.
+   - It is designed to enhance the technical skills of students across all engineering disciplines offered at MIET.
+
+**Q: What programs are offered by the Super Resource Center at MIET?**
+
+**A: Programs Offered**
+   - The center offers a variety of training cum certification programs in programming languages and tools such as C, C++, Java, SCILAB, and Latex.
+   - These programs are tailored to meet the needs of students from all semesters, enhancing their competencies in key technical areas.
+
+**Q: What achievements has the Super Resource Center at MIET made?**
+
+**A: Achievements**
+   - In 2017, approximately 350 students and 50 faculty members received certifications through the center.
+   - MIET is distinguished as the only technical institution in the region to be recognized as a Super Resource Center by IIT Bombay, highlighting its commitment to technical excellence and education.
+
+### Amazon Web Services Academy at MIET
+
+**Q: What is the Amazon Web Services Academy at MIET?**
+
+**A: Overview of AWS Academy**
+   - MIET is one of the first ten institutions in India selected to run the AWS Academy Program, which offers an authorized AWS curriculum on cloud computing.
+   - This program was initiated to equip students with essential skills and certifications for the cloud IT workforce, a rapidly growing sector.
+
+**Q: What does the AWS Academy at MIET offer?**
+
+**A: Program Offerings**
+   - The AWS Academy provides courses that prepare students for careers in cloud computing and for obtaining industry-recognized AWS Certifications.
+   - The program specifically targets final-year students, providing them with advanced knowledge and practical skills in cloud technology.
+
+**Q: Who are the instructors for the AWS Academy at MIET?**
+
+**A: Instructors**
+   - The courses are conducted by two AWS certified and accredited instructors: Mr. Purnendu Prabhat and Mr. Rishi Gupta, both Assistant Professors in the Department of Computer Science and Engineering at MIET.
+   - They are among the first accredited AWS Academy instructors in India, bringing a high level of expertise to the program.
+
+**Q: What are the achievements of the AWS Academy at MIET?**
+
+**A: Achievements**
+   - Since its inception in April 2018, the AWS Academy at MIET has trained 17 students who are set to appear for their AWS certification exams in April 2019.
+   - These exams are crucial for validating the students' skills in cloud computing, enhancing their employability in the technology sector.
+
+### Alumni at MIET
+
+**Q: What is the main message from Prof. Ankur Gupta, Director of MIET, regarding alumni?**
+
+**A: Message from Prof. Ankur Gupta**
+   - Prof. Ankur Gupta expresses immense pride in the achievements of MIET alumni who are making significant marks globally in top organizations and diverse fields.
+   - He highlights the launch of the MIET alumni virtual community on the AlmaConnect platform, aimed at fostering stronger connections among alumni and with the institution.
+
+**Q: What are the key features of the AlmaConnect platform for MIET alumni?**
+
+**A: Features of AlmaConnect Platform**
+   - The platform enables alumni to network, locate batchmates, share job opportunities, and stay updated with the latest news from MIET.
+   - It serves as a central hub for alumni to engage with each other and their alma mater, enhancing their professional and personal connections.
+
+**Q: What initiatives are being taken by MIET to engage with its alumni?**
+
+**A: Alumni Engagement Initiatives**
+   - MIET has established Connexions, the official Alumni Association, to support the alumni community through various initiatives and to involve them in strategic directions for the institution.
+   - Regional alumni chapters, including an international presence, are being planned to bring together alumni across various locations.
+
+**Q: How does MIET plan to involve alumni in its development?**
+
+**A: Involvement of Alumni in MIET's Development**
+   - Senior alumni are being involved in Advisory Boards for different departments, contributing their expertise and experience to enhance academic and administrative functions.
+   - The Alumni Mentoring Programme is an initiative where distinguished alumni volunteer to mentor current students, providing them guidance and support to succeed in their careers.
+
+**Q: What are some notable alumni events at MIET?**
+
+**A: Notable Alumni Events**
+   - MIET organizes annual alumni meets, typically around the Diwali festival, where alumni from various sectors come together to reconnect and reminisce about their college days.
+   - These meets also feature the felicitation of Distinguished Alumni Award Winners and serve as a platform for alumni to engage with ongoing and future initiatives of MIET.
+
+### Microsoft Academic Alliance at MIET
+
+**Q: What is the purpose of the MSDN Academic Alliance at MIET?**
+
+**A: Purpose of MSDN Academic Alliance**
+   - The MSDN Academic Alliance at MIET is designed to provide students and faculty with free access to all legal Microsoft software. This includes development kits and platforms for educational purposes, promoting the use of legal software in academic settings.
+
+**Q: How can MIET students and faculty access Microsoft software through the MSDN Academic Alliance?**
+
+**A: Accessing Microsoft Software**
+   - MIET students and faculty can obtain login credentials from the IT team at MIET.
+   - Once they have the credentials, they can log in to the MSDN portal to download and access the software.
+
+**Q: What are the benefits of this alliance for MIET students and faculty?**
+
+**A: Benefits of the MSDN Academic Alliance**
+   - Provides free access to a wide range of Microsoft software, supporting educational and research activities.
+   - Encourages the development of skills in using industry-standard software tools, enhancing students' and faculty's technical capabilities.
+
+**Q: How does MIET promote the use of legal software?**
+
+**A: Promoting Legal Software Use**
+   - By providing free access through the MSDN Academic Alliance, MIET actively promotes the use of legal software among its students and faculty. This initiative ensures that all software used for educational purposes is licensed and legally obtained, fostering a culture of ethical software usage.
+
+### Sh. H.L. Gupta Scholarship (For Boys) at MIET
+
+**Q: What is the Sh. H.L. Gupta Scholarship?**
+
+**A: Overview of the Scholarship**
+   - The Sh. H.L. Gupta Scholarship is a Merit-cum-Means scholarship provided at MIET, designed to financially assist male students whose guardian's income is less than Rs 2.25 lac per annum.
+   - The scholarship awards Rs 1000 per month for 10 months to five deserving male students.
+
+**Q: Who are eligible for the Sh. H.L. Gupta Scholarship?**
+
+**A: Eligibility for the Scholarship**
+   - The scholarship targets students who excel academically and have financial needs. Eligibility is based on performance and financial criteria.
+
+**Q: What specific awards are available under the Sh. H.L. Gupta Scholarship?**
+
+**A: Specific Awards under the Scholarship**
+   - **MBA 3rd/4th Semester**: Awarded to a student who tops in aggregate marks in the first and second semesters.
+   - **MCA 3rd/4th Semester**: Similar to MBA, it is awarded to the top performer in the MCA program during the first two semesters.
+   - **BE 5th/6th Semester (ECE, CSE, EE/IT)**: Provided to the student who has the highest aggregate marks from the first to fourth semesters in each respective specialization.
+
+**Q: How does the scholarship support students?**
+
+**A: Support to Students**
+   - Beyond financial assistance, the scholarship recognizes and rewards academic excellence in high-need students, encouraging them to maintain high standards in their studies.
+   - It also helps alleviate the financial burden on families, enabling students to focus more on their academic and career goals.
+
+**Q: How can students apply for the Sh. H.L. Gupta Scholarship?**
+
+**A: Application Process**
+   - Students need to apply when they meet the eligibility criteria during their respective semesters. The application must demonstrate both academic merit and financial need.
+   - Details on the application process can typically be obtained from the scholarship office or the administrative department at MIET. 
+
+### ISTE Student Chapter at MIET
+
+**Q: What is the ISTE Student Chapter at MIET?**
+
+**A: Overview of the ISTE Chapter**
+   - The ISTE (Indian Society for Technical Education) Student Chapter at MIET was established in 2006, making it the oldest student chapter at the institution.
+   - It facilitates student engagement in technical education through access to ISTE conventions and competitions, enhancing both academic and professional development.
+
+**Q: How does the ISTE Chapter benefit MIET students?**
+
+**A: Benefits to Students**
+   - Participation in ISTE conventions allows students to interact with peers from other institutions, broadening their technical and professional network.
+   - The chapter enables students to compete for ISTE student awards, recognizing outstanding achievements in technical education.
+
+**Q: What are some achievements of the MIET ISTE Chapter?**
+
+**A: Achievements of the Chapter**
+   - Since its inception, over 14 students from MIET have been awarded the ISTE Best Student Award at various ISTE North Zone Conventions.
+   - The chapter has consistently seen its members achieve high accolades, including multiple 'Overall Best Performance' awards at annual conventions.
+
+**Q: How can students engage with the ISTE Chapter at MIET?**
+
+**A: Student Engagement with ISTE**
+   - All students at MIET are automatically members of the ISTE chapter, making it the largest ISTE student branch in the state of J&K.
+   - Active participation in events and conventions hosted by ISTE offers students numerous opportunities for learning and professional growth.
+
+**Q: What specific awards have MIET students received through ISTE?**
+
+**A: Specific Awards and Recognitions**
+   - In 2019, several students across various departments received the ISTE Best Student Award at a section level convention.
+   - Historical achievements include the 'Overall Best Performance' trophy at the North Zone ISTE Section Annual Student Convention and individual recognitions for students in various technical fields.
+
+**Q: What impact does the ISTE Chapter have on students' careers?**
+
+**A: Impact on Careers**
+   - Engagement with ISTE's activities enhances students' resumes by adding reputable technical achievements and awards.
+   - The networking opportunities and professional development gained through ISTE involvement support students in building a solid foundation for future career endeavors in the technical field.
+
+### NSS Unit at MIET: "Prayaas"
+
+**Q: What is the NSS Unit at MIET?**
+
+**A: Overview of Prayaas - NSS Unit**
+   - "Prayaas" is the NSS unit at MIET consisting of 10 faculty members and 100 student volunteers.
+   - It focuses on community service and social responsibility initiatives, actively engaging in various activities to benefit the local community and environment.
+
+**Q: What are the main activities of the Prayaas NSS Unit?**
+
+**A: Key Activities of Prayaas**
+   - **Adopt-a-Village:** Initiated in May 2017, this project involves adopting the village of Amb in Block Bhalwal, Jammu, to support and uplift the underprivileged.
+   - **Blood Donation Camp:** Organized in association with J&K Thalassemia Welfare Society, the camp sees substantial participation from students, aiding thalassemic children.
+   - **Save the Trees Campaign:** Aims to protect campus trees from termite attacks and other natural threats by painting tree barks.
+   - **Swach Bharat Abhiyan:** Committed to environmental sustainability, this initiative includes tree planting and transitioning to LED bulbs to create a greener campus.
+
+**Q: How does involvement in the NSS Unit benefit MIET students?**
+
+**A: Benefits to Students**
+   - Participation in NSS activities fosters a sense of civic responsibility and community service among students.
+   - Provides hands-on experience in organizing and leading social initiatives, enhancing leadership skills and personal growth.
+   - Engages students in impactful actions that contribute to societal well-being and environmental sustainability.
+
+**Q: How does the NSS Unit impact the local community?**
+
+**A: Community Impact**
+   - The "Adopt-a-Village" project directly contributes to improving the quality of life in the local village through various developmental activities.
+   - Blood donation drives significantly support local healthcare needs, particularly for vulnerable groups like thalassemic children.
+   - Environmental campaigns like the "Save the Trees" and Swachh Bharat initiatives help in conserving local flora and promoting cleanliness.
+
+**Q: How can MIET students join the Prayaas NSS Unit?**
+
+**A: Joining the NSS Unit**
+   - Interested students can enroll as volunteers by reaching out to the faculty in charge or during the annual volunteer recruitment drive.
+   - Participation is encouraged for all students, providing an opportunity to give back to the community while developing personal and professional skills.
+
+### Mitsubishi Factory and Industrial Robotics Lab at MIET
+
+**Q: What is the Mitsubishi Factory and Industrial Robotics Lab at MIET?**
+
+**A: Overview of Mitsubishi FA Lab**
+   - The Mitsubishi Factory and Industrial Robotics Lab (FA Lab) at MIET is an Authorized Training Centre established in collaboration with Mitsubishi Electric India Private Limited.
+   - It represents a significant industry-academia partnership aimed at enhancing practical knowledge and skills in industrial automation.
+   - Equipped with state-of-the-art Mitsubishi Electric automation equipment and software, the lab is designed to provide hands-on training and real-world industrial automation experiences to students.
+
+**Q: What are the objectives of the Mitsubishi FA Lab at MIET?**
+
+**A: Objectives of the Lab**
+   - To bridge the gap between academic learning and industrial needs by providing comprehensive training on advanced automation technologies.
+   - To enhance students' abilities in designing, implementing, and managing automation projects using Mitsubishi Electric's latest industrial equipment and software.
+
+**Q: What equipment is available in the Mitsubishi FA Lab?**
+
+**A: Equipment in the FA Lab**
+   - The lab is outfitted with high-end Mitsubishi Electric iQ-R PLC-based training kits, including HMI, VFD, Servo, and FX PLC with HMI training kits.
+   - It also features iQ Platform software, engineering software for simulation/programming, and various simulation accessories.
+
+**Q: What courses are offered at the Mitsubishi FA Lab?**
+
+**A: Training Courses Offered**
+   - The lab offers specialized industrial training programs on PLC, HMI, SCADA, and robotic programming.
+   - Courses cover from basic to advanced concepts in industrial automation, including hardware, software, and system architecture.
+   - Training involves hands-on sessions with actual industrial equipment, focusing on practical applications and problem-solving in automation.
+
+**Q: What are the expected outcomes for students training at the Mitsubishi FA Lab?**
+
+**A: Training Outcomes for Students**
+   - Students will learn to design and program PLC ladder logic on personal computers and within the GX Works3 environment.
+   - Gain practical skills in designing and implementing automation systems using PLCs, sensors, HMI, VFD, Servo systems, and SCADA.
+   - Develop the ability to analyze industrial problems and devise effective solutions using advanced automation technologies.
+   - Learn to operate and control complex systems such as robotic arms and integrate various automation components for comprehensive system management.
+
+### Computer Science & Engineering at MIET
+
+**Q: What is the focus of the Computer Science and Engineering (CSE) department at MIET?**
+
+**A: Overview of CSE Department**
+   - MIET's CSE department is the first NBA-accredited CSE department in the State of J&K, highlighting its commitment to high-quality instruction and training.
+   - It is recognized for leading the region in placements, university results, alumni success, industrial linkages, and quality of project work.
+   - The department's vision is to become a world-class center of computer science education, noted for excellence in teaching, research, and innovation.
+
+**Q: What are the program educational objectives for CSE students at MIET?**
+
+**A: Educational Objectives**
+   - To successfully apply fundamental knowledge of computer science in innovative ways to solve complex problems.
+   - To build successful careers in various domains and demonstrate professional growth and development.
+   - To achieve a reputation for excellence, leadership, and adherence to ethical standards within a few years of graduation.
+
+**Q: What are the program outcomes for CSE graduates from MIET?**
+
+**A: Program Outcomes**
+   - Graduates will have a deep understanding of engineering knowledge, problem analysis, and solution design.
+   - They will be adept in modern tool usage, environmental and sustainability considerations, and professional ethics.
+   - The curriculum aims to produce individuals who can effectively communicate and manage projects in multidisciplinary environments and engage in lifelong learning.
+
+**Q: What specializations are available within the CSE program at MIET?**
+
+**A: Specializations Offered**
+   - AI & Machine Learning
+   - Internet of Things (IoT)
+   - Data Science
+   - Cloud Computing
+   - Cyber Security
+
+These specializations are designed to prepare students for cutting-edge sectors in technology and industry.
+
+**Q: Can you describe the CSE department's facilities and labs?**
+
+**A: Facilities and Labs**
+   - MIET boasts state-of-the-art labs established in collaboration with industry leaders like IBM, EMC, and Cisco.
+   - These labs are equipped with the latest hardware and software, providing students with the necessary tools to gain practical experience and industry-relevant certifications.
+
+**Q: What is the scope of employment for CSE graduates from MIET?**
+
+**A: Employment Opportunities**
+   - Graduates can pursue careers as software developers, quality assurance engineers, consultants, data analysts, system administrators, network engineers, IT support professionals, and entrepreneurs.
+   - The program’s strong industry ties and practical focus ensure that students are well-prepared for the job market.
+
+**CSE Faculty at MIET**
+   - The department is staffed by highly qualified faculty including Professors like Ankur Gupta and Devanand, as well as a host of assistant professors who bring a wealth of academic and industry experience to the classroom. Their profiles indicate a strong focus on both teaching excellence and research in emerging tech domains.
+
+### Past Recruiters at MIET
+
+**Q: What is the role of the Placement Division at MIET?**
+
+**A: Role of the Placement Division**
+   - MIET's Placement Division has been instrumental in facilitating job placements for pre-final and final year students over the last decade.
+   - The division actively coordinates with leading companies to organize campus placements, ensuring that students are well-prepared and presented with significant employment opportunities.
+
+**Q: How successful have MIET placements been in recent years?**
+
+**A: Success of MIET Placements**
+   - MIET boasts a robust record of excellent placements over the past 10 years, reflecting the high calibre of its students and the effectiveness of its placement program.
+   - A significant number of students have been placed in premier industries and organizations, both in the private sector and government.
+
+**Q: Can you name some top organizations that have recruited from MIET?**
+
+**A: Notable Recruiters**
+   - Students from MIET have found positions in esteemed companies such as:
+     - **Tech Giants:** Hewlett-Packard, EMC, Infosys, TCS, IBM, Dell Labs, Mphasis
+     - **Engineering and Services:** KPIT Cummins, Mahindra Satyam, Punj Lloyd
+     - **Financial and Customer Services:** HSBC, V-Customer
+     - **Telecommunications:** Airtel
+   - Additionally, MIET graduates have also joined prestigious public sector organizations like NHPC, as well as the Indian Navy and the Army, reflecting the diverse opportunities available to them.
+
+### Events@MIET: Highlighting Workshops and Women Empowerment
+
+**Q: What was the objective of the PoSH workshop organized by MIET?**
+
+**A: Objective of the PoSH Workshop**
+   - The workshop on Prevention of Sexual Harassment (PoSH) was aimed at providing essential knowledge and tools to both individuals and organizations to effectively prevent and address sexual harassment in the workplace.
+   - The collaboration with FICCI FLO Jammu Kashmir and Ladakh Chapter facilitated an environment focused on educating and sensitizing participants on maintaining a respectful and safe workplace.
+
+**Q: Who were the key speakers and guests at the PoSH workshop, and what did they contribute?**
+
+**A: Key Contributors to the PoSH Workshop**
+   - **Ms. Monika Kohli:** As the Chief Guest and a Senior Additional Advocate General, she discussed the legal frameworks that protect women from workplace harassment and stressed the importance of organizational roles in fostering a respectful workplace culture.
+   - **Ms. Anuradha Gandhi:** A DE&I and PoSH Certified Trainer, who shared detailed insights into the POSH Act 2013, enriching the workshop with valuable discussions and perspectives on sexual harassment prevention.
+
+**Q: What was the MIET RAP Anthem about, and what does it symbolize?**
+
+**A: MIET RAP Anthem - "Josh, Jazba, Junoon"**
+   - The anthem is a rap that embodies the core values of MIET, celebrating the spirit, determination, and commitment to excellence among its students. It serves as a motivational piece, rallying the community under the principles of "SHRESTHA, SHRAM, & NAVEENTA."
+
+**Q: What was the focus of the 'Women in Tech Series' event, and who was the speaker?**
+
+**A: Focus and Speaker of the 'Women in Tech Series'**
+   - **Theme:** "Unleashing the Power Within - Strong Women Empowering a Transformative World," aimed at empowering women in engineering and technology.
+   - **Speaker:** Dr. Archana Pandita, an alumna of MIET and Associate Professor at Demont Institute of Management and Technology, UAE. She highlighted the significant contributions of women to engineering, the educational empowerment they receive, and the challenges they face, advocating for supportive environments for women in tech.
+
+### Cisco Networking Academy at MIET
+
+**Q: What is the primary goal of the Cisco Networking Academy established at MIET?**
+
+**A: Primary Goal of Cisco Networking Academy**
+   - The Cisco Networking Academy at MIET aims to provide high-quality training in internetworking technologies to enhance students' employability prospects. This collaboration with Cisco Inc. includes comprehensive instructor-led and online courses focusing on the skills needed to design, build, and maintain computing networks.
+
+**Q: What are some features of the Cisco Networking Academy at MIET?**
+
+**A: Key Features of the Cisco Networking Academy**
+   - **State-of-the-Art Facilities:** Equipped with high-end Cisco routers and switches to ensure practical, hands-on learning.
+   - **Blended Learning Approach:** Combines instructor-led and online learning, supplemented with hands-on laboratory exercises.
+   - **Cisco Certification:** Offers internationally recognized qualifications, enhancing career opportunities in IT and networking.
+   - **Skill Development:** Focuses on developing critical thinking, problem-solving, and practical networking skills.
+
+**Q: What are the benefits for students participating in this academy?**
+
+**A: Benefits for Students**
+   - **Global Recognition:** Courses like CCNA provide a pathway to globally recognized certifications.
+   - **Discount on Certification:** Students completing courses receive significant discounts on CCNA industry certification exams.
+   - **Hands-On Experience:** Direct experience with the latest Cisco equipment, preparing students for real-world networking environments.
+   - **Career Opportunities:** Access to a wide range of career opportunities globally, including roles like Network Support, Network Engineer, and Network Consultant.
+
+**Q: What specific content and skills are taught in the CCNA program at the Cisco Networking Academy?**
+
+**A: CCNA Program Content and Skills**
+   - **Core Network Foundations:** Covers essentials of IP data networks, LAN switching technologies, IP addressing, and IP routing technologies.
+   - **Advanced Network Services:** Instruction on IP services, network device security, Quality of Service (QoS), and WAN technology.
+   - **Practical Skills Development:** Emphasizes troubleshooting, network operation, and the application of learned skills in practical, industry-relevant scenarios.
+
+### B.Com (Hons.) Admission at MIET
+
+**Q: How many seats are available for the B.Com (Hons.) program at MIET?**
+
+**A: Total Intake and Seat Distribution**
+   - **Total Seats:** 60
+   - **Open Merit Seats:** 51
+   - **Management Quota Seats:** 9
+
+**Q: What are the eligibility criteria for admission to the B.Com (Hons.) program at MIET?**
+
+**A: Eligibility Criteria**
+   - **Academic Requirement:** Candidates must have obtained at least 50% marks (45% for SC/ST) in the qualifying 10+2 examination as per the regulations of the competent regulatory body.
+   - **Final Examination Clause:** Candidates appearing in the 10+2 final examination can apply, but they must provide evidence of having passed the exam in full by 31st July or a date approved by the admission committee.
+
+**Q: What is the admission process for the B.Com (Hons.) program at MIET?**
+
+**A: Admission Procedure**
+   - **Application Submission:** Candidates need to fill out an application form available online via the link provided by MIET.
+   - **Merit-Based Selection:** The selection of candidates is strictly based on merit, determined by the marks obtained in the 10+2 examination.
+
+**Q: What documents are required for admission to the B.Com (Hons.) program at MIET?**
+
+**A: Document Checklist**
+   - Matriculation or equivalent examination certificate.
+   - Marks certificate of the 10+2 examination.
+   - Provisional Certificate/Degree from the last attended institution (in original).
+   - Category Certificate, if applicable, as per the latest SRO issued by the J&K Government.
+   - Anti-Ragging undertakings from all admitted candidates and their parents/guardians.
+   - Twelve passport size photographs.
+
+### Confederation of Indian Industry (CII) Membership at MIET
+
+**Q: What benefits does MIET derive from being an institutional member of the Confederation of Indian Industry (CII)?**
+
+**A: Benefits of CII Membership**
+   - **Networking Opportunities:** MIET gains access to a broad network of large corporations and industries, enhancing networking opportunities.
+   - **Placement and Internship Opportunities:** Membership provides MIET students with increased access to placement and internship opportunities through CII’s extensive industry connections.
+   - **Professional Development:** Students and faculty have opportunities to participate in CII’s diverse professional events and activities, which help in skill development and staying updated with industry trends.
+
+**Q: How does MIET participate in CII activities?**
+
+**A: Participation in CII Activities**
+   - **Event Participation:** MIET faculty, including members like Prof. P.N. Sharma and Mr. Sahil Sawhney, actively participate in CII forums and events. For example, they attended the CII J&K State Annual Session 2016.
+   - **Contribution to Leadership Selection:** The MIET team has been involved in the selection processes within the CII, contributing to the leadership decisions at the CII J&K Chapter.
+
+**Q: What specific CII event did MIET faculty attend recently?**
+
+**A: CII J&K State Annual Session 2016**
+   - **Event Date and Location:** The event was held on February 19, 2016, at Hotel Fortune Inn Riviera, Jammu.
+   - **Event Focus:** The session focused on “Sustainable Infrastructure–A Key Enabler,” discussing the role of sustainable infrastructure in economic development.
+
+### Projects & Grants at MIET
+
+**Q: What types of projects and grants has MIET been involved in?**
+
+**A: Overview of MIET's Projects and Grants**
+   - **Diverse Project Topics:** Projects at MIET cover a wide range of topics from socioeconomic impacts and electricity distribution to innovative technology applications like cell-phone charging through renewable sources and educational community networks.
+   - **Significant Funding:** Grants and project funding have come from prestigious sources such as AICTE, UGC, and various industry leaders, totaling substantial amounts aimed at fostering research and development in the institution.
+
+**Q: Can you provide examples of specific projects undertaken by MIET?**
+
+**A: Specific Projects Examples**
+   - **Socio-Economic Impact Study:** Conducted by Prof. S.K. Sharma, Dr. Parul Sharma, and Dr. Parul Mahajan, this project, funded by Shri Mata Vaishno Devi Narayna Superspeciality Hospital, explored the regional impacts of the hospital.
+   - **Cross-Organizational P2P Networks:** Led by Dr. Ankur Gupta, this project funded by AICTE focused on developing peer-to-peer network systems.
+   - **Smart Problem Analyzer and Productizing RDIST:** These projects, also spearheaded by Dr. Ankur Gupta and involving student collaboration, were supported by Hewlett-Packard, highlighting the practical application of classroom learning in real-world scenarios.
+
+**Q: What grants has MIET received for technological and educational advancements?**
+
+**A: Notable Grants**
+   - **AICTE Grants for AI and Deep Learning:** Dr. Ankur Gupta received funding to conduct short-term training on AI and Deep Learning, enhancing the institute's educational offerings in cutting-edge technology areas.
+   - **MODROB Grants:** Multiple Modernization and Removal of Obsolescence (MODROB) grants were awarded across different departments (EE, CSE, Mechanical) to update lab facilities and infrastructure, ensuring students access to modern and relevant technology.
+   - **Smart City Nerve Grant:** Another innovative grant that fosters the integration of MIET into urban technological developments, further showcasing MIET's commitment to contributing to smart city initiatives.
+
+### NBA Accreditation at MIET
+
+**Q: What is the current status of NBA accreditation at MIET?**
+
+**A: Current NBA Accreditation Status**
+   - **CSE Department:** The Department of Computer Science and Engineering at MIET is accredited by the National Board for Accreditation (NBA) until June 2025.
+   - **Institutional Efforts:** MIET is actively working towards attaining NBA accreditation for 50% of its departments, reflecting a strategic effort to enhance the overall academic and educational quality of its various programs.
+
+**Q: What are the goals and objectives of NBA accreditation?**
+
+**A: Objectives of NBA Accreditation**
+   - **Quality Assessment and Grading:** The NBA aims to assess and grade technical and professional education institutions and their various academic units and programs.
+   - **Stimulation of Academic Environment:** It seeks to stimulate the academic environment and quality of teaching and research within these institutions.
+   - **Encouragement of Research and Innovation:** The NBA motivates institutions to engage in research, adopt innovative teaching practices, and focus on student development in innovation and leadership.
+   - **Promotion of Self-Evaluation and Accountability:** Encourages self-evaluation, accountability, and transparency in the operations of educational institutions.
+   - **Support for Educational Reforms:** Promotes necessary changes, innovations, and reforms in all aspects of technical and professional education to align with global standards and practices.
+
+**Q: How does NBA accreditation impact institutions like MIET?**
+
+**A: Impact of NBA Accreditation on Institutions**
+   - **Enhanced Reputation:** Accreditation by NBA enhances an institution's reputation, indicating a seal of quality for its educational programs.
+   - **Improved Educational Quality:** Helps institutions improve the quality of their academic programs and aligns them with recognized standards, benefiting students and faculty.
+   - **Attractiveness to Prospective Students:** Institutions with NBA accreditation are often more attractive to prospective students looking for quality education and better career prospects.
+   - **Increased Funding and Research Opportunities:** Accredited institutions often have better access to funding opportunities and collaborations for research and academic expansion.
+
+### Patents at MIET
+
+**Q: What efforts has MIET made in terms of patent filing?**
+
+**A: Patent Filing Efforts at MIET**
+   - **Total Patents Filed:** MIET has filed a significant number of patents, totaling 18, at the Indian Patents Office. This underscores the institution's commitment to fostering innovation and protecting intellectual property developed within its academic environment.
+   - **Areas of Innovation:** The patents cover a wide range of technologies and solutions, from asset management and vehicle management systems to methods for securing official documents and automated attendance management systems. This diversity reflects the broad scope of research and innovation activities at MIET.
+
+**Q: Can you provide examples of some patents filed by MIET?**
+
+**A: Examples of Patents Filed**
+   1. **Vehicle Management System:** A system and method for image-based campus vehicle management were filed in 2019 by Dr. Ankur Gupta and Mr. Purnendu Prabhat.
+   2. **Asset Management:** A method of asset cataloguing for asset management systems based on image and voice capture was also filed in 2019 by the same inventors.
+   3. **Document Security:** A system and method for organizations to securely issue and verify official documents was filed in 2017, highlighting MIET's focus on security and document management.
+   4. **Attendance Management:** A method of automated attendance management using mobile devices on custom wireless networks was filed in 2016, showcasing MIET's innovation in educational technology.
+
+**Q: What are the broader impacts of these patents for MIET?**
+
+**A: Broader Impacts of Patents**
+   - **Enhancing Research Profile:** The filing of these patents enhances the research profile of MIET, positioning it as a leader in technological innovation within the region and beyond.
+   - **Attracting Research Funding:** Patents can help in attracting more research funding and partnerships from industry and other academic institutions.
+   - **Boosting Student and Faculty Innovation:** The active patenting activity encourages both students and faculty to pursue innovative projects and consider the commercial potential of their research.
+   - **Improving Educational Quality:** By integrating these innovations into their curriculum, MIET can offer students hands-on experience with cutting-edge technologies, thereby improving the quality of education.
+
+### M.Tech Admission at MIET
+
+**Q: What M.Tech courses are offered at MIET?**
+
+**A: M.Tech Course Offered**
+   - **Computer Science and Engineering:** MIET offers an M.Tech program specifically in Computer Science and Engineering, accommodating the increasing demand for advanced expertise in this field.
+
+**Q: What is the total intake and seat distribution for the M.Tech program?**
+
+**A: Total Intake and Seat Distribution**
+   - **Total Seats:** 9
+   - **Open Merit:** 8 seats are available for general merit-based admission.
+   - **Management Quota:** 1 seat is reserved under the management quota.
+
+**Q: What are the eligibility criteria for M.Tech admissions at MIET?**
+
+**A: Eligibility Criteria**
+   - **Qualification Required:** Applicants must hold a B.E/B.Tech degree in a relevant branch of engineering and technology, or an MCA/M.Sc in Computer Science/IT/Electronics/Mathematics/Statistics/Physics, particularly for M.Tech in CSE.
+   - **Minimum Marks:** Candidates must have secured at least 50% marks (45% for SC/ST) or equivalent CGPA.
+   - **Final Year Students:** Candidates appearing in their final year of qualifying exams are eligible to apply, provided they can furnish proof of having passed the examination by July 31st or another approved date.
+
+**Q: What is the admission procedure for the M.Tech program?**
+
+**A: Admission Procedure**
+   - **Application Process:** Candidates interested in the M.Tech program must fill out an application form available through a specific link provided by the institute.
+   - **Entrance Requirement:** Admission primarily relies on a valid GATE score. A merit list will be prepared based on GATE scores.
+   - **Merit-Based Admission:** If seats remain unfilled after considering GATE scores, admissions may be offered based on marks obtained in the qualifying examination, strictly following merit.
+
+**Q: What documents are required for M.Tech admission at MIET?**
+
+**A: Document Checklist**
+   - Matriculation or equivalent examination certificate.
+   - Marks certificate of each part/semester of the qualifying examination (10+2 or graduation or diploma).
+   - Provisional Certificate/Degree from the last attended institution (original).
+   - Category Certificate, if applicable.
+   - Domicile Certificate as per Jammu and Kashmir rules.
+   - Anti-Ragging undertakings by all admitted candidates and their parents/guardians.
+   - Passport size photographs (12).
+
+### Institution's Innovation Council at MIET
+
+**Q: What is the purpose of the Institution's Innovation Council at MIET?**
+
+**A: Purpose of the Institution's Innovation Council**
+   - The council is designed to foster innovation and entrepreneurship among students by organizing workshops, seminars, and other educational activities focused on intellectual property rights, research methodologies, and entrepreneurship skills.
+
+**Q: What types of documents does the Institution's Innovation Council provide?**
+
+**A: List of Documents Provided by the Council**
+   - **Establishment Certificate**
+   - **Event Flyers** (e.g., for events on 9-10th June)
+   - **Policy Documents** (including I&E Policy and IPR Policy)
+   - **Annual Reports** (e.g., IIC Annual Report 2020-21)
+   - **Rating Certificates** (for the years 2018-19 to 2020-21)
+   - **MIET Innovation & Startup Policy 2021**
+
+**Q: Can you detail some workshops and seminars conducted by the council during the academic year 2021-22?**
+
+**A: Workshops and Seminars Conducted**
+   - **Data Interpretation & Statistical Analysis with SPSS**: Focused on research methodology, held on 14th May 2022 with 11 participants.
+   - **Workshop on Research Methodology**: Also held on 14th May 2022 with 14 participants, covering research methodology.
+   - **IPR, Patents and Design Filing for Start-Ups and Entrepreneurs**: Held on 22nd May 2022 with 3 participants, focusing on Intellectual Property Rights.
+   - **My Story - Motivational Session by Successful Innovators**: Held on 19th February 2022 with 60 participants, aimed at inspiring entrepreneurship.
+   - **Seminar on Problem Solving and Ideation Workshop**: Conducted on 23rd December 2021 with 80 participants, focusing on entrepreneurship.
+   - **Pitching Event for Ideas Scouted & Linkage with Innovation Ambassadors**: Held on 15th January 2022 with 60 participants, focusing on entrepreneurship.
+
+**Q: What are some significant themes covered in the council's events?**
+
+**A: Significant Themes Covered**
+   - **Entrepreneurship**: Multiple seminars and workshops were conducted to enhance entrepreneurial skills, idea development, and startup management.
+   - **Research Methodology**: Special sessions were held to improve research skills and statistical analysis among students and faculty.
+   - **Intellectual Property Rights**: Specific sessions were dedicated to educating participants on the importance of IP rights and the filing processes for patents and designs.
+
+**Q: How can one access reports on these workshops?**
+
+**A: Access to Workshop Reports**
+   - Reports for each session or workshop are available through links provided on MIET’s official website, enabling stakeholders to view detailed content and outcomes of each event.
+
+### M.Tech in Computer Science at MIET
+
+**Q: What is the M.Tech Computer Science and Engineering program at MIET?**
+
+**A: Overview of the M.Tech Program**
+   - **Approval**: MIET has obtained all necessary approvals from statutory and regulatory bodies to offer this program.
+   - **Start Session**: The program started from the 2019-20 academic session.
+   - **Intake**: The program has an intake of 18 seats.
+
+**Q: What is the focus of the M.Tech program at MIET?**
+
+**A: Focus and Curriculum**
+   - The program aims to be industry-oriented while also providing substantial exposure to research.
+   - **Key Areas of Study**: Students engage in learning and developing expertise in advanced technologies such as Artificial Intelligence and Deep Learning, Big Data, Cloud Computing, Internet-of-Things (IoT), and Software-Defined Networking.
+
+**Q: What unique opportunities does the M.Tech program offer?**
+
+**A: Unique Opportunities in the Program**
+   - **Industry Internships**: These are integrated into the curriculum to provide practical industry exposure to students.
+   - **Workshops on Patenting and IPR**: Workshops are conducted to enhance students' knowledge and skills in intellectual property rights and patent filing, crucial for innovating and protecting inventions.
+
+**Q: Who guides the M.Tech program at MIET?**
+
+**A: Guidance and Advisory Board**
+   - A high-powered Advisory Board has been established to steer the program.
+   - **Composition**: The board includes Professors from prestigious US and top Indian Universities and senior technical experts from the industry, ensuring that the curriculum remains relevant to current industry standards and technological advancements.
+
+### BBA (Hons.) Admission at MIET
+
+**Q: What is the intake for the BBA (Hons.) program at MIET?**
+
+**A: Total Intake for the Program**
+   - **Open Merit**: 102 seats
+   - **Management Quota Seats**: 18 seats
+   - **Total**: 120 seats
+
+**Q: What are the eligibility criteria for BBA admission at MIET?**
+
+**A: Eligibility Criteria**
+   - Candidates must have obtained at least 50% marks (45% for SC/ST) or as specified by the competent regulatory body from time to time in the qualifying 10+2 examination.
+   - Candidates appearing in the 10+2 final examination in March are eligible, provided they can furnish documentary evidence of having passed the examination in full on or before 31st of July, or as specified by the admission committee.
+
+**Q: How does the admission process work for the BBA program at MIET?**
+
+**A: Admission Procedure**
+   - Candidates desiring to enroll in the BBA program must fill out the application form available through the link provided by the institute.
+   - Admissions are based strictly on merit, drawn from the scores in the 10+2 examination.
+   - If seats remain vacant after considering the merit list, they may be filled by considering candidates based on the marks obtained in their qualifying examinations under the management quota or as specified.
+
+**Q: What documents are required during the admission process?**
+
+**A: Document Checklist**
+   - Matriculation or equivalent examination certificate.
+   - Marks certificate of 10+2 examination.
+   - Provisional Certificate/Degree from the last attended school/university/institution (original).
+   - Category Certificate, if applicable, issued by the competent authority as per the latest SRO issued by the J&K Govt.
+   - Anti-Ragging undertakings must be furnished by all admitted candidates and their parents/guardians.
+   - Passport size photographs (12).
 
