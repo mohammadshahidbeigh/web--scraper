@@ -2110,33 +2110,463 @@ These specializations are designed to prepare students for cutting-edge sectors 
 
 ### BBA (Hons.) Admission at MIET
 
-**Q: What is the intake for the BBA (Hons.) program at MIET?**
+**Q: What are the details of the BBA (Hons.) program at MIET?**
 
-**A: Total Intake for the Program**
-   - **Open Merit**: 102 seats
-   - **Management Quota Seats**: 18 seats
-   - **Total**: 120 seats
+**A: Overview of the BBA Program**
+   - **Total Intake**: The program has a total intake of 120 seats.
+   - **Distribution of Seats**: 
+     - Open Merit: 102 seats
+     - Management Quota Seats: 18 seats
 
-**Q: What are the eligibility criteria for BBA admission at MIET?**
+**Q: What are the eligibility criteria for the BBA program at MIET?**
 
 **A: Eligibility Criteria**
    - Candidates must have obtained at least 50% marks (45% for SC/ST) or as specified by the competent regulatory body from time to time in the qualifying 10+2 examination.
-   - Candidates appearing in the 10+2 final examination in March are eligible, provided they can furnish documentary evidence of having passed the examination in full on or before 31st of July, or as specified by the admission committee.
+   - Candidates appearing in the final 10+2 examination in March are eligible to apply, provided they can furnish documentary evidence of having passed the qualifying examination in full on or before 31st of July, or such other date as may be approved by the admission committee.
 
 **Q: How does the admission process work for the BBA program at MIET?**
 
 **A: Admission Procedure**
-   - Candidates desiring to enroll in the BBA program must fill out the application form available through the link provided by the institute.
-   - Admissions are based strictly on merit, drawn from the scores in the 10+2 examination.
-   - If seats remain vacant after considering the merit list, they may be filled by considering candidates based on the marks obtained in their qualifying examinations under the management quota or as specified.
+   - Candidates who have appeared in the 10+2 examination and are interested in the BBA program must fill out the application form available through the provided link.
+   - Admissions are granted based on a merit list drawn strictly in order of merit from the qualifying examination scores.
+   - Management also selects students under the NRI/Management sponsored/other quota seats as per the regulations prescribed by the AICTE and the State Government.
 
-**Q: What documents are required during the admission process?**
+**Q: What documents are required for admission to the BBA program at MIET?**
 
 **A: Document Checklist**
-   - Matriculation or equivalent examination certificate.
-   - Marks certificate of 10+2 examination.
-   - Provisional Certificate/Degree from the last attended school/university/institution (original).
-   - Category Certificate, if applicable, issued by the competent authority as per the latest SRO issued by the J&K Govt.
-   - Anti-Ragging undertakings must be furnished by all admitted candidates and their parents/guardians.
-   - Passport size photographs (12).
+   - Matriculation or equivalent examination certificate
+   - Marks certificate of 10+2 examination
+   - Provisional Certificate/Degree issued by the School/University/Institution last attended (in original)
+   - Category Certificate (if applicable) issued by the Competent Authority as per the latest SRO issued by the J&K Govt.
+   - Anti-Ragging undertakings by all admitted candidates and their parents/guardians
+   - 12 passport size photographs
+
+**Q: Who can be contacted for more information about BBA admissions at MIET?**
+
+**A: Contact Information**
+   - Address: Model Institute of Engineering and Technology, Kot Bhalwal, Jammu
+   - Phone: 7889395696
+
+### Campus Infrastructure at MIET
+
+**Q: What can you tell me about the campus facilities at MIET?**
+
+**A: Overview of MIET Campus**
+
+- **Size and Environment**: The MIET campus is spread over 25 acres and is recognized for its lush green environment, described as the greenest campus in the region. It is well connected to major transportation hubs in Jammu, enhancing accessibility.
+- **Built-up Area**: The campus includes 22,000 sq.m of built-up area featuring classrooms, labs, an auditorium, and other student facilities.
+- **Location**: It is located 13 km from Jammu Tawi Railway Station, 10 km from the City Bus Stand, and 17 km from Jammu Airport.
+
+**Q: What specific facilities are available at MIET?**
+
+**A: Key Facilities**
+
+- **Computing Facilities**: MIET boasts state-of-the-art computing labs with over 500 networked computers and high-end servers. The entire campus is Wi-Fi enabled.
+- **Library**: The library is well-equipped with over 35,000 books and access to major digital libraries and journals.
+- **Laboratories**: Comprehensive laboratory facilities cater to various engineering disciplines, ensuring practical exposure to students.
+- **Sports and Recreation**: The campus offers a multi-purpose sports field, basketball and volleyball courts, and facilities for other indoor games.
+
+**Q: Are there any special labs or centers of excellence at MIET?**
+
+**A: Specialized Laboratories and Centers**
+
+- **IBM Software Center of Excellence**
+- **Mitsubishi Industry 4.0 Lab**
+- **Bentley BIM Advancement Lab**
+- **UIPath RPA Lab**
+- **Center for Software Development**
+- **Advanced Database Systems Lab**
+- **Center for Research, Innovation, and Entrepreneurship**
+
+**Q: How does MIET handle sustainability and green initiatives?**
+
+**A: Green Initiatives**
+
+- MIET is proactive in its environmental initiatives, including:
+  - Solar energy utilization
+  - Grid wheeling
+  - Use of LED bulbs and power-efficient equipment
+  - Rainwater harvesting
+  - Water well recharge
+  - Wastewater recycling
+
+**Q: What classroom facilities are provided to enhance learning at MIET?**
+
+**A: Classroom Facilities**
+
+- Classrooms and seminar halls are equipped with modern ICT facilities like Wi-Fi, LAN, projectors, and soundbars. Each room is designed to facilitate interactive and engaging learning experiences.
+
+### Faculty Overview at MIET
+
+**Q: What can you tell me about the faculty at MIET?**
+
+**A: Faculty Composition and Expertise**
+
+MIET prides itself on a diverse and highly qualified faculty comprising 120 members, with significant distinctions:
+- **Qualifications**: 67% of the faculty hold postgraduate degrees, and 33% are Ph.D. holders.
+- **Experience**: 27.84% of faculty members have over ten years of experience, with 15% possessing industry experience, enriching the learning with practical insights.
+- **Engagement**: The faculty is actively involved in research, development, and industry-oriented programs, contributing to the academic and professional landscape nationally and internationally.
+
+**Q: How does MIET ensure the continuous development of its faculty?**
+
+**A: Faculty Development Initiatives**
+
+- **Faculty Development Program**: MIET conducts a comprehensive program aimed at enhancing the skills and competencies of faculty through various workshops, seminars, and training sessions. This initiative ensures that the faculty remains updated with the latest academic and industry trends.
+
+**Q: Can you provide details about the specialization areas of the faculty across different departments?**
+
+**A: Faculty Specializations**
+
+- **Civil Engineering**: Experts in structural engineering, environmental engineering, and construction management.
+- **Computer Science & Engineering**: Specialties include artificial intelligence, machine learning, software engineering, and network security.
+- **Electronics & Communication Engineering**: Proficient in digital signal processing, communications, and embedded systems.
+- **Electrical Engineering**: Focuses on power systems, electrical machines, and renewable energy.
+- **Bachelor of Computer Applications**: Faculty with a focus on programming, database management, and information technology.
+- **Bachelor of Business Administration and Commerce**: Expertise in finance, marketing, human resources, and economic analysis.
+- **Law (BBA-LLB and LLB)**: Specialized in corporate law, criminal law, and civil law.
+- **Master of Business Administration**: Areas of focus include strategic management, organizational behavior, and international business.
+- **Master of Computer Applications**: Specializations in application development, system integration, and user experience design.
+- **Applied Science & Humanities**: Specialties in linguistics, sociology, and foundational sciences which support technical learning.
+
+**Q: Can you provide the names and titles of the faculty members across different departments at MIET?**
+
+**A: List of Faculty Members**
+
+### Civil Engineering
+- **Dr. Arvind Dewangan** - Professor
+- **Dr. Niranjan Singh** - Associate Professor
+- **Mr. Abhishek Chandra** - Assistant Professor
+- **Mr. Muzafar A Ganie** - Assistant Professor
+- **Mr. Iliyas Khaleel** - Assistant Professor
+- **Mr. Ishan Anand** - Assistant Professor
+- **Mr. Abhijeet Singh** - Assistant Professor
+- **Mr. Zark K Khan** - Assistant Professor
+- **Mr. Sarvdaman Sharma** - Assistant Professor
+
+### Computer Science & Engineering
+- **Prof. Ankur Gupta** - Professor
+- **Prof. Devanand** - Professor
+- **Dr. Bhagyalakshmi** - Assistant Professor
+- **Dr. Mohammad Shabaz** - Assistant Professor
+- **Dr. Surbhi Gupta** - Assistant Professor
+- **Ms. Vani Malagar** - Assistant Professor
+- **Ms. Meenu Lochan** - Assistant Professor
+- **Mr. Karan Khajuria** - Assistant Professor
+- **Mr. Anil Gupta** - Assistant Professor
+- **Mr. Navin M Upadhyay** - Assistant Professor
+- **Mr. Saurabh Sharma** - Assistant Professor
+- **Ms. Azra Ashraf** - Assistant Professor
+- **Ms. Dazy Kohli** - Assistant Professor
+- **Ms. Veena Tripathi** - Assistant Professor
+- **Ms. Sheetal Mahajan** - Assistant Professor
+- **Ms. Jagriti Sharma** - Assistant Professor
+- **Ms. Salbiyah Khurshid** - Assistant Professor
+- **Ms. Sukhmeet Kour** - Assistant Professor
+- **Ms. Harashleen Kour** - Assistant Professor
+- **Mr. Arsalan M Zargar** - Assistant Professor
+- **Ms. Tajamul Hassan** - Assistant Professor
+- **Ms. Vishalika** - Assistant Professor
+- **Ms. Annu Sonania** - Assistant Professor
+- **Mr. Shubham Gupta** - Assistant Professor
+- **Mr. Malik H Ali** - Assistant Professor
+- **Mr. Govind K Singh** - Assistant Professor
+
+### Electronics & Communication Engineering
+- **Prof. S.K Sharma** - Professor
+- **Prof. Ashok Kumar** - Professor
+- **Dr. Suhaib A Batt** - Assistant Professor
+- **Dr. Sarabdeep Singh** - Assistant Professor
+- **Ms. Surbhi Sharma** - Assistant Professor
+- **Ms. Gurpreet Kour** - Assistant Professor
+- **Ms. Gurpreet Raina** - Assistant Professor
+- **Ms. Shiveta Bhat** - Assistant Professor
+
+### Electrical Engineering
+- **Dr. Satyendra Kumar** - Assistant Professor
+- **Mr. Bhanu P Singh** - Assistant Professor
+- **Ms. Gurpreet K Sodhi** - Assistant Professor
+- **Mr. Parveen Kumar** - Assistant Professor
+
+### Bachelor of Computer Applications
+- **Ms. Amita Khanna** - Assistant Professor
+
+### Bachelor of Business Administration
+- **Mr. Dharamveer Sharma** - Dean UG Programs
+- **Dr. Mansi Gupta** - Assistant Professor
+- **Dr. Swati Samnotra** - Assistant Professor
+- **Ms. Indu Gandotra** - Assistant Professor
+- **Ms. Diksha Mahajan** - Assistant Professor
+- **Ms. Sunanjita Mahajan** - Assistant Professor
+- **Ms. Swati Mahajan** - Assistant Professor
+- **Ms. Heena Sharma** - Assistant Professor
+- **Ms. Shivani Kanaria** - Assistant Professor
+
+### Bachelor of Commerce
+- **Dr. Priyanka Sharma** - Associate Professor
+- **Dr. Mamta Sharma** - Assistant Professor
+- **Dr. Anzal Malik** - Assistant Professor
+- **Dr. Vibhu Johar** - Assistant Professor
+- **Mr. Dinesh Bargotra** - Assistant Professor
+- **Mr. Koushik Dhar** - Assistant Professor
+- **Ms. Mannat Puri** - Assistant Professor
+- **Ms. Shallin Kaul** - Assistant Professor
+
+### BBA-LLB 
+
+- Prof. Sunita Z Kaul - Dean & Principal
+- Dr. Komila Aggarwal - Assistant Professor
+- Dr. Chander P Singh - Assistant Professor
+- Dr. Rohini Sharma - Assistant Professor
+- Dr. Kartika Bakshi - Assistant Professor
+- Ms. Apoorva Bhan - Assistant Professor
+- Mr. Karan Pandoh - Assistant Professor
+- Mr. Vijay B Thalluri - Assistant Professor
+- Mr. Bhanu P S Sambyal - Assistant Professor
+- Ms. Shivani Misri - Assistant Professor
+- Ms. Harneet Kour - Assistant Professor
+
+
+### BBA-LLB (Hons.) Program at MIET
+
+**Q: Can you tell me about the BBA-LLB (Hons.) program at MIET?**
+
+**A: Overview of the BBA-LLB (Hons.) Program**
+
+MIET's School of Law is notable for being the first law school in the Union Territory of Jammu & Kashmir to offer a BBA-LLB (Hons.) program, addressing the increasing demand for well-trained legal professionals and paralegals. The program uniquely integrates legal and business education, preparing students to handle the complexities of both fields.
+
+**Q: What is the vision and mission of the School of Law at MIET?**
+
+**A: Vision and Mission**
+
+- **Vision**: To establish a world-class School of Law known for excellence in teaching, research, innovation, and consultancy.
+- **Mission**: To deliver high-quality legal and business studies education, equipping students to tackle real-world challenges, and to foster significant academic and professional growth through strong industry connections.
+
+**Q: What are the outcomes expected from the program?**
+
+**A: Program Outcomes (POs) and Program-Specific Outcomes (PSOs)**
+
+**Program Outcomes (POs):**
+- Students will gain core business knowledge and management skills.
+- They will develop abilities in critical thinking, decision-making, and leadership.
+- The program enhances communication skills and teamwork abilities.
+- It also focuses on the application of statistical and analytical tools and promotes lifelong learning.
+
+**Program-Specific Outcomes (PSOs):**
+- **PSO-1**: Graduates will possess a thorough understanding of substantive and procedural law.
+- **PSO-2**: Skills in drafting, counseling, and negotiation are emphasized.
+- **PSO-3**: The program fosters professionalism and ethical responsibilities in legal practice.
+- **PSO-4**: It aims to enhance interpersonal skills and the ability to handle complex legal and non-legal information.
+- **PSO-5**: Graduates will appreciate and apply their knowledge of rights and duties to promote community welfare.
+
+**Q: What specializations are offered in the BBA-LLB (Hons.) program?**
+
+**A: Specializations Offered**
+
+The program offers various law and management specializations under a flexible CBCS system:
+
+**Law Specializations:**
+- **Constitutional Law**
+- **Corporate Law**
+- **Intellectual Property Law**
+
+**Management Specializations:**
+- **Finance**
+- **Human Resources**
+- **Marketing**
+
+These specializations provide students with focused knowledge that prepares them for specific career paths in both legal and business sectors.
+
+**Q: What is the total intake and eligibility criteria for the program?**
+
+**A: Intake and Eligibility**
+
+- **Total Intake**: 120 seats (102 Open Merit, 18 Management Quota)
+- **Eligibility Criteria**: Applicants must score at least 50% (45% for SC/ST) in the 10+2 examinations and have appeared for national level law entrance exams like CLAT, AILET, or LSAT India.
+
+**Q: How does one apply to the BBA-LLB (Hons.) program at MIET?**
+
+**A: Admission Procedure**
+
+Prospective students need to fill out an online application form available through a specified link. Admissions are based on merit, factoring in 10+2 examination scores and national level test scores.
+
+**Q: What documents are required for application?**
+
+**A: Document Checklist**
+
+- 10+2 examination certificate and marks certificate.
+- Provisional Certificate/Degree from the last attended institution.
+- National level test scorecards.
+- Category Certificate, if applicable.
+- Anti-ragging undertakings.
+
+### MCA Admission at MIET
+
+**Q: Can you detail the MCA program's admission process at MIET?**
+
+**A: Overview of MCA Admission**
+
+The Master of Computer Applications (MCA) at MIET is designed for students aiming to excel in the field of computer applications. The program has a total intake of 30 seats, with 21 allocated for open merit and 9 reserved for management quota.
+
+**Q: What are the eligibility criteria for the MCA program at MIET?**
+
+**A: Eligibility Criteria**
+
+- **Academic Requirement**: Candidates must have completed a bachelor’s degree of at least three years in any stream.
+- **Marks Requirement**: At least 50% marks (45% for SC/ST) or equivalent CGPA as specified by the regulatory body.
+- **Final Year Candidates**: Students in the final year of their bachelor's degree can apply, provided they submit proof of graduation by July 31st or another approved date.
+
+**Q: How does one apply to the MCA program at MIET?**
+
+**A: Admission Procedure**
+
+- **Application**: Candidates need to fill out an online application available through a specified link.
+- **Entrance Test**: MIET conducts its own entrance test if the number of applicants exceeds the available seats.
+- **Merit-Based Admission**: If the number of applicants is less than or equal to the number of seats, admission is based on the marks obtained in the qualifying examination.
+- **Admission Formalities**: Selected students must complete admission formalities, including fee payment, within a prescribed timeframe.
+
+**Q: What documents are required during the MCA admission process?**
+
+**A: Document Checklist**
+
+- Matriculation or equivalent examination certificate.
+- Marks certificate of each part/semester of the qualifying examination (10+2 or graduation or diploma).
+- Provisional Certificate/Degree from the last attended institution (original).
+- Category Certificate, if applicable.
+- Anti-Ragging undertakings from all admitted candidates and their parents/guardians.
+- Passport Size photographs (12).
+
+### Academic Council at MIET
+
+**Q: Can you tell me about the Academic Council at MIET?**
+
+**A: Overview of Academic Council**
+
+The Academic Council at MIET is a key statutory body responsible for overseeing the academic matters of the institute. This council discusses and approves various academic decisions, ensuring they align with educational standards and institutional goals.
+
+**Q: What kind of matters does the Academic Council handle?**
+
+**A: Responsibilities of the Academic Council**
+
+The Academic Council primarily deals with:
+
+- **Curriculum Development**: Reviewing and updating the syllabus as per the latest educational and industry trends.
+- **Academic Standards**: Ensuring high academic standards and quality education.
+- **Research Initiatives**: Encouraging and regulating research activities within the institute.
+- **New Academic Programs**: Evaluating proposals for new programs or changes to existing ones.
+
+**Q: Are there records of the Academic Council's meetings?**
+
+**A: Meeting Minutes**
+
+Yes, MIET maintains detailed minutes of the Academic Council meetings. These records are crucial for transparency and for keeping track of the discussions and decisions made. Recent meeting minutes available for review include:
+
+- Academic Council Minutes of Meeting 1
+- Academic Council Minutes of Meeting 2
+- Academic Council Minutes of Meeting 3
+- Academic Council Minutes of Meeting 4
+
+### Electronics and Communication Engineering at MIET
+
+**Q: What can you tell me about the Electronics and Communication Engineering department at MIET?**
+
+**A: Overview of the Department**
+
+The Department of Electronics and Communication Engineering at MIET is renowned for its commitment to high-quality instruction and training. It is the first department within the region to receive NBA accreditation, underscoring its excellence in educational standards. This department has become a leading entity in terms of student placements, university results, industrial connections, and innovative academic initiatives.
+
+**Q: What are the department’s vision and mission?**
+
+**A: Vision and Mission of the Department**
+
+- **Vision**: The vision of the Electronics and Communication Engineering department at MIET is to be recognized as a world-class entity in the field, with proven expertise in teaching, research, and innovation.
+  
+- **Mission**: The mission includes:
+  1. Delivering high-quality instruction in electronics and communication.
+  2. Integrating academics with research and innovation to create significant value.
+  3. Developing strong relationships with top global organizations to enhance capabilities and capacities.
+
+**Q: What educational outcomes does the program aim to achieve?**
+
+**A: Program Educational Objectives and Outcomes**
+
+- **Program Educational Objectives (PEOs)**: Graduates are expected to:
+  1. Apply fundamental knowledge innovatively to solve complex problems.
+  2. Achieve professional growth and excel in diverse career paths.
+  3. Maintain a reputation for excellence, leadership, and ethical standards.
+  
+- **Program Outcomes (POs)**: The program aims to enable students to:
+  1. Master core engineering knowledge.
+  2. Conduct complex problem analysis and solution design.
+  3. Engage in lifelong learning and adapt to technological changes.
+
+- **Program Specific Outcomes (PSOs)**: Graduates will be skilled in:
+  1. Designing, implementing, and testing electronic systems.
+  2. Demonstrating knowledge in key sub-domains like digital electronics, communication systems, and embedded systems.
+
+**Q: What specializations are available within the ECE program?**
+
+**A: Specializations Offered**
+
+MIET offers honours and minor degrees in Electronics and Communication Engineering with specializations in:
+- AI & Machine Learning
+- Internet of Things (IoT)
+- Data Science
+- Cloud Computing
+- Cyber Security
+
+**Q: What infrastructure supports the ECE department?**
+
+**A: Infrastructure and Facilities**
+
+The department boasts:
+- Highly experienced and qualified faculty.
+- Advanced laboratory facilities including Microwave and VLSI Labs.
+- Strong industrial ties through regular tours and an Industry-Institute Partnership Cell.
+- Comprehensive online and print library resources.
+- Regular value-added and personality development programs.
+
+**Faculty of ECE at MIET**
+
+The faculty team in the ECE department includes:
+- **Prof. S. K Sharma**: Professor
+- **Prof. Ashok Kumar**: Professor
+- **Dr. Suhaib A Batt**: Assistant Professor
+- **Dr. Sarabdeep Singh**: Assistant Professor
+- **Ms. Surbhi Sharma**: Assistant Professor, and others who contribute to a robust educational experience for students. 
+
+
+### Faculty Awards at MIET
+
+**Q: What are some notable awards received by the faculty at MIET?**
+
+**A: Key Faculty Awards**
+
+1. **Indo-Australia VELT Programme**
+   - **Recipient**: Dr. Ankur Gupta, Director of MIET
+   - **Details**: Selected among top directors/principals from India for a vocational education leadership training program in Australia, providing insights into the VET sector's pedagogical designs, technology integration, and industry collaborations.
+
+2. **Academic Game Changer Award**
+   - **Recipient**: Dr. Ankur Gupta
+   - **Event**: EMC Academic Summit, Chennai, 2015
+   - **Details**: Recognized for transformative contributions in academia, particularly in integrating industry practices with educational curricula.
+
+3. **ISTE Best Faculty Award**
+   - **Recipients**: 
+     - 2018: Ms. Meena Kohli (ECE) and Ms. Mekhla Sharma (CSE)
+     - 2017: Mr. Jamini Sharma and Mr. Satyendra Kumar (ECE)
+     - 2016: Ms. Surbhi Sharma (ECE)
+     - 2015: Dr. Nitin Langer (Electrical Engineering)
+     - 2014: Ms. Taru Mahajan
+     - 2013: Ms. Richa Vashistha
+   - **Details**: Awards received for outstanding educational contributions and achievements in their respective fields.
+
+4. **Faculty Mentor Award**
+   - **Recipient**: Dr. Ankur Gupta
+   - **Event**: IBM recognition, 2015
+   - **Details**: Honored for mentoring students in developing mobile applications and elevating project standards at MIET.
+
+5. **AICTE Career Award for Young Teachers**
+   - **Recipient**: Dr. Ankur Gupta
+   - **Details**: Award includes a grant of Rs. 10.5 Lakhs for professional development and research, recognizing promising young researchers under 35.
+
+
 
