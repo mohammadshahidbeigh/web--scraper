@@ -1,4 +1,4 @@
-# Web Scraping with LangChain Toola
+# Web Scraping with LangChain Tool
 
 ## Introduction
 
